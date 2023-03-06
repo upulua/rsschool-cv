@@ -10,12 +10,12 @@
 * Telegram: [Ira Borina](https://t.me/upulua)
 
 ## Education
-Moscow State University
-Faculty of Computational Mathematics and Cybernetics *exp. 2024*
-Department of System Programming
+Moscow State University  
+Faculty of Computational Mathematics and Cybernetics *exp. 2024*  
+Department of System Programming  
 **Relevant courses**: Data structures and Algorithms, Operating systems, Inroduction into networks, Construction of the Operating System Kernel
 ## Experience
-**Ivannikov Institute for System Programming of the RAS** 
+**Ivannikov Institute for System Programming of the RAS**   
 *Laboratory assistant July 2022 - present*
 * Work as an frontend-intern
 * Work on coursework about term extraction in studemts' bachelor's and master's  theses
