@@ -20,17 +20,17 @@ Department of System Programming
 **Ivannikov Institute for System Programming of the RAS**   
 *Laboratory assistant July 2022 - present*
 * Work as an frontend-intern
-* Work on coursework about term extraction in studemts' bachelor's and master's  theses
+* Work on coursework about term extraction in studemts' bachelor's and master's  theses  
 
 
 ## Skills
 * Languages: C, C++, Python, TypeScript, PostgreSQL
 * Frameworks: React, Redux
-* Other: Git, Bash
+* Other: Git, Bash  
 
 
 ## About me
-My goal is to get new knowledge at web-development in order to find a fulfilling job. I am currently working at Ivannikov Institute for System Programming of the RAS (ISP RAS) as a laboratory assistant.
+My goal is to get new knowledge at web-development in order to find a fulfilling job. I am currently working at Ivannikov Institute for System Programming of the RAS (ISP RAS) as a laboratory assistant.  
 
 
 ## Code example
@@ -48,9 +48,9 @@ function toCamelCase(str){
   }
   return ans;
 }
-```
+```  
 
 
 ## Languages
 * Russian: native
-* English: C1
+* English: C1  
